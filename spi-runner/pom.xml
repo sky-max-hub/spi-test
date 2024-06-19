@@ -21,8 +21,13 @@
         </dependency>
         <dependency>
             <groupId>org.zrw</groupId>
-            <artifactId>spi-provider-log4j</artifactId>
+            <artifactId>spi-provider-logback</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
+<!--        <dependency>-->
+<!--            <groupId>org.zrw</groupId>-->
+<!--            <artifactId>spi-provider-log4j</artifactId>-->
+<!--            <version>1.0-SNAPSHOT</version>-->
+<!--        </dependency>-->
     </dependencies>
 </project>
